@@ -20,6 +20,6 @@ class Shoe
   
   def condition
     puts "The shoe has been repaired!"
-    @condition = "new"
+    @condition
   end 
 end 
