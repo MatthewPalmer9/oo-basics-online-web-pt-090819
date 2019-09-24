@@ -20,6 +20,6 @@ class Shoe
   
   def condition(cobble = "new")
     puts "The shoe has been repaired!"
-    @condition = condition
+    @condition = cobble
   end 
 end 
