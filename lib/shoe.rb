@@ -20,6 +20,6 @@ class Shoe
   
   def cobble
     puts "The shoe has been repaired!"
-    @condition 
+    @cobble
   end 
 end 
