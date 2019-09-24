@@ -22,4 +22,6 @@ class Shoe
     puts "The shoe has been repaired!"
     @condition
   end 
+  
+  def cobble
 end 
