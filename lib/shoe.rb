@@ -18,7 +18,7 @@ class Shoe
     @material
   end 
   
-  def cobble(condition = "old")
+  def cobble(condition = "new")
     puts "The shoe has been repaired!"
     @cobble = condition
   end 
