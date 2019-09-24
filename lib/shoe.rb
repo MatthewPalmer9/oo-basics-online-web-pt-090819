@@ -18,8 +18,8 @@ class Shoe
     @material
   end 
   
-  def condition(state_of_repair)
+  def condition
     puts "The shoe has been repaired!"
-    @condition = state_of_repair
+    @condition = "new"
   end 
 end 
