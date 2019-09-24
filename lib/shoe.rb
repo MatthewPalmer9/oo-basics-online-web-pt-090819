@@ -18,7 +18,7 @@ class Shoe
     @material
   end 
   
-  def condition
+  def cobble
     puts "The shoe has been repaired!"
     @condition 
   end 
