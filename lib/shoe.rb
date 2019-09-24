@@ -5,6 +5,10 @@ class Shoe
     @brand
   end 
   
+  def brand
+    @brand
+  end 
+  
   def color 
     @color 
   end 
