@@ -18,8 +18,8 @@ class Shoe
     @material
   end 
   
-  def condition(state)
-    @condition = state
+  def condition
+    @condition = "new"
   end 
   
   def cobble
