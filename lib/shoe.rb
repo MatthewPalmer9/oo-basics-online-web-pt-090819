@@ -19,9 +19,11 @@ class Shoe
   end 
   
   def condition
-    puts "The shoe has been repaired!"
     @condition
   end 
   
   def cobble
+    puts "The shoe has been repaired!"
+    @cobble
+  end
 end 
